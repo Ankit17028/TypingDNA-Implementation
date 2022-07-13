@@ -3,7 +3,7 @@ import base64
 import json
 
 base_url = 'https://api.typingdna.com'
-apiKey = '0fe67243b0f70a83a1c3fa7fb76ddd3e'
+apiKey = '0fe67243b0f70a83a1c3fa7fb76ccc4e'
 apiSecret = '012526c122551650ae0aae249a5bf331'
 
 
